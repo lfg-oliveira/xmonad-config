@@ -1,0 +1,7 @@
+xmonad
+xmonad-contrib
+.stack*
+*.lock
+workspace*
+*.hi
+*.o
